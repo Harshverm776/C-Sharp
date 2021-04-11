@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\bin\Debug\netcoreapp3.1\Registering and Login.exe
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\bin\Debug\netcoreapp3.1\Registering and Login.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\bin\Debug\netcoreapp3.1\Registering and Login.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\bin\Debug\netcoreapp3.1\Registering and Login.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\bin\Debug\netcoreapp3.1\Registering and Login.dll
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\bin\Debug\netcoreapp3.1\Registering and Login.pdb
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\obj\Debug\netcoreapp3.1\Registering and Login.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\obj\Debug\netcoreapp3.1\Registering and Login.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\obj\Debug\netcoreapp3.1\Registering and Login.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\obj\Debug\netcoreapp3.1\Registering and Login.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\obj\Debug\netcoreapp3.1\Registering and Login.dll
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\obj\Debug\netcoreapp3.1\Registering and Login.pdb
+C:\Users\Harsh Verma\Desktop\C#\Registering and Login\Registering and Login\obj\Debug\netcoreapp3.1\Registering and Login.genruntimeconfig.cache

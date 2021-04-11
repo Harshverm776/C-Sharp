@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\bin\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.exe
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\bin\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\bin\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\bin\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\bin\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.dll
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\bin\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.pdb
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\obj\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\obj\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\obj\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\obj\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\obj\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.dll
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\obj\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.pdb
+C:\Users\Harsh Verma\Desktop\C#\Enhanced If Statements - Ternary\Enhanced If Statements - Ternary\obj\Debug\netcoreapp3.1\Enhanced If Statements - Ternary.genruntimeconfig.cache

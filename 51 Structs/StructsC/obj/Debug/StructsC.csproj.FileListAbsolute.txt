@@ -1,0 +1,7 @@
+F:\Visual Studio Projects\StructsC\StructsC\bin\Debug\StructsC.exe.config
+F:\Visual Studio Projects\StructsC\StructsC\bin\Debug\StructsC.exe
+F:\Visual Studio Projects\StructsC\StructsC\bin\Debug\StructsC.pdb
+F:\Visual Studio Projects\StructsC\StructsC\obj\Debug\StructsC.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\StructsC\StructsC\obj\Debug\StructsC.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\StructsC\StructsC\obj\Debug\StructsC.exe
+F:\Visual Studio Projects\StructsC\StructsC\obj\Debug\StructsC.pdb

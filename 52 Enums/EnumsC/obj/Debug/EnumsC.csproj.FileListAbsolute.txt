@@ -1,0 +1,7 @@
+F:\Visual Studio Projects\EnumsC\EnumsC\bin\Debug\EnumsC.exe.config
+F:\Visual Studio Projects\EnumsC\EnumsC\bin\Debug\EnumsC.exe
+F:\Visual Studio Projects\EnumsC\EnumsC\bin\Debug\EnumsC.pdb
+F:\Visual Studio Projects\EnumsC\EnumsC\obj\Debug\EnumsC.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\EnumsC\EnumsC\obj\Debug\EnumsC.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\EnumsC\EnumsC\obj\Debug\EnumsC.exe
+F:\Visual Studio Projects\EnumsC\EnumsC\obj\Debug\EnumsC.pdb

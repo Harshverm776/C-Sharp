@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\bin\Debug\netcoreapp3.1\Parsing a String To An Integer.exe
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\bin\Debug\netcoreapp3.1\Parsing a String To An Integer.deps.json
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\bin\Debug\netcoreapp3.1\Parsing a String To An Integer.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\bin\Debug\netcoreapp3.1\Parsing a String To An Integer.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\bin\Debug\netcoreapp3.1\Parsing a String To An Integer.dll
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\bin\Debug\netcoreapp3.1\Parsing a String To An Integer.pdb
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\obj\Debug\netcoreapp3.1\Parsing a String To An Integer.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\obj\Debug\netcoreapp3.1\Parsing a String To An Integer.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\obj\Debug\netcoreapp3.1\Parsing a String To An Integer.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\obj\Debug\netcoreapp3.1\Parsing a String To An Integer.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\obj\Debug\netcoreapp3.1\Parsing a String To An Integer.dll
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\obj\Debug\netcoreapp3.1\Parsing a String To An Integer.pdb
+C:\Users\Harsh Verma\Desktop\C#\7 Parsing a String To An Integer\Parsing a String To An Integer\obj\Debug\netcoreapp3.1\Parsing a String To An Integer.genruntimeconfig.cache

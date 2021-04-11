@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\bin\Debug\netcoreapp3.1\Datatypes Int, Float and Double.exe
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\bin\Debug\netcoreapp3.1\Datatypes Int, Float and Double.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\bin\Debug\netcoreapp3.1\Datatypes Int, Float and Double.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\bin\Debug\netcoreapp3.1\Datatypes Int, Float and Double.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\bin\Debug\netcoreapp3.1\Datatypes Int, Float and Double.dll
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\bin\Debug\netcoreapp3.1\Datatypes Int, Float and Double.pdb
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\obj\Debug\netcoreapp3.1\Datatypes Int, Float and Double.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\obj\Debug\netcoreapp3.1\Datatypes Int, Float and Double.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\obj\Debug\netcoreapp3.1\Datatypes Int, Float and Double.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\obj\Debug\netcoreapp3.1\Datatypes Int, Float and Double.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\obj\Debug\netcoreapp3.1\Datatypes Int, Float and Double.dll
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\obj\Debug\netcoreapp3.1\Datatypes Int, Float and Double.pdb
+C:\Users\Harsh Verma\Desktop\C#\Datatypes Int, Float and Double\Datatypes Int, Float and Double\obj\Debug\netcoreapp3.1\Datatypes Int, Float and Double.genruntimeconfig.cache

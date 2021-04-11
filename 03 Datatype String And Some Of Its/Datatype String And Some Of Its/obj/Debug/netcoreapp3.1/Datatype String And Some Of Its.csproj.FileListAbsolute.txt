@@ -1,0 +1,12 @@
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\bin\Debug\netcoreapp3.1\Datatype String And Some Of Its.exe
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\bin\Debug\netcoreapp3.1\Datatype String And Some Of Its.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\bin\Debug\netcoreapp3.1\Datatype String And Some Of Its.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\bin\Debug\netcoreapp3.1\Datatype String And Some Of Its.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\bin\Debug\netcoreapp3.1\Datatype String And Some Of Its.dll
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\bin\Debug\netcoreapp3.1\Datatype String And Some Of Its.pdb
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\obj\Debug\netcoreapp3.1\Datatype String And Some Of Its.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\obj\Debug\netcoreapp3.1\Datatype String And Some Of Its.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\obj\Debug\netcoreapp3.1\Datatype String And Some Of Its.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\obj\Debug\netcoreapp3.1\Datatype String And Some Of Its.dll
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\obj\Debug\netcoreapp3.1\Datatype String And Some Of Its.pdb
+C:\Users\Harsh Verma\Desktop\C#\Datatype String And Some Of Its\Datatype String And Some Of Its\obj\Debug\netcoreapp3.1\Datatype String And Some Of Its.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Challenge checking pure string.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Challenge checking pure string.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Challenge checking pure string.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Challenge checking pure string.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Challenge checking pure string.exe
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Challenge checking pure string.deps.json
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Challenge checking pure string.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Challenge checking pure string.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Challenge checking pure string.dll
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Challenge checking pure string.pdb
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Challenge checking pure string.dll
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Challenge checking pure string.pdb
+C:\Users\Harsh Verma\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Challenge checking pure string.genruntimeconfig.cache

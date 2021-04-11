@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\bin\Debug\netcoreapp3.1\Console Methods.exe
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\bin\Debug\netcoreapp3.1\Console Methods.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\bin\Debug\netcoreapp3.1\Console Methods.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\bin\Debug\netcoreapp3.1\Console Methods.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\bin\Debug\netcoreapp3.1\Console Methods.dll
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\bin\Debug\netcoreapp3.1\Console Methods.pdb
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\obj\Debug\netcoreapp3.1\Console Methods.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\obj\Debug\netcoreapp3.1\Console Methods.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\obj\Debug\netcoreapp3.1\Console Methods.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\obj\Debug\netcoreapp3.1\Console Methods.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\obj\Debug\netcoreapp3.1\Console Methods.dll
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\obj\Debug\netcoreapp3.1\Console Methods.pdb
+C:\Users\Harsh Verma\Desktop\C#\Console Methods\Console Methods\obj\Debug\netcoreapp3.1\Console Methods.genruntimeconfig.cache

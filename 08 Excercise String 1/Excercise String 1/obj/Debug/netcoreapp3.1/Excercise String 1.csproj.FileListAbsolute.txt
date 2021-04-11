@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\obj\Debug\netcoreapp3.1\Excercise String 1.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\obj\Debug\netcoreapp3.1\Excercise String 1.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\obj\Debug\netcoreapp3.1\Excercise String 1.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\bin\Debug\netcoreapp3.1\Excercise String 1.exe
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\bin\Debug\netcoreapp3.1\Excercise String 1.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\bin\Debug\netcoreapp3.1\Excercise String 1.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\bin\Debug\netcoreapp3.1\Excercise String 1.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\bin\Debug\netcoreapp3.1\Excercise String 1.dll
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\bin\Debug\netcoreapp3.1\Excercise String 1.pdb
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\obj\Debug\netcoreapp3.1\Excercise String 1.dll
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\obj\Debug\netcoreapp3.1\Excercise String 1.pdb
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\obj\Debug\netcoreapp3.1\Excercise String 1.genruntimeconfig.cache
+C:\Users\Harsh Verma\Desktop\C#\Excercise String 1\Excercise String 1\obj\Debug\netcoreapp3.1\Excercise String 1.csprojAssemblyReference.cache

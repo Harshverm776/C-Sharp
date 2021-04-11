@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If And Else If + Try Parse", "If And Else If + Try Parse\If And Else If + Try Parse.csproj", "{A27BFD88-7A17-429E-8C90-4778EA30F3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27BFD88-7A17-429E-8C90-4778EA30F3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27BFD88-7A17-429E-8C90-4778EA30F3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27BFD88-7A17-429E-8C90-4778EA30F3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27BFD88-7A17-429E-8C90-4778EA30F3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E340E7F0-8A4E-4157-8D8F-64337E30F4B5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\bin\Debug\netcoreapp3.1\Datatypes And Variables.exe
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\bin\Debug\netcoreapp3.1\Datatypes And Variables.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\bin\Debug\netcoreapp3.1\Datatypes And Variables.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\bin\Debug\netcoreapp3.1\Datatypes And Variables.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\bin\Debug\netcoreapp3.1\Datatypes And Variables.dll
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\bin\Debug\netcoreapp3.1\Datatypes And Variables.pdb
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\obj\Debug\netcoreapp3.1\Datatypes And Variables.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\obj\Debug\netcoreapp3.1\Datatypes And Variables.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\obj\Debug\netcoreapp3.1\Datatypes And Variables.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\obj\Debug\netcoreapp3.1\Datatypes And Variables.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\obj\Debug\netcoreapp3.1\Datatypes And Variables.dll
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\obj\Debug\netcoreapp3.1\Datatypes And Variables.pdb
+C:\Users\Harsh Verma\Desktop\C#\Datatypes And Variables\Datatypes And Variables\obj\Debug\netcoreapp3.1\Datatypes And Variables.genruntimeconfig.cache

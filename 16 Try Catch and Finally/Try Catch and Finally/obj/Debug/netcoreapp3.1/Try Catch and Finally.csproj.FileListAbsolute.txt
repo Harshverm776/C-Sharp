@@ -1,0 +1,13 @@
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\bin\Debug\netcoreapp3.1\Try Catch and Finally.exe
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\bin\Debug\netcoreapp3.1\Try Catch and Finally.deps.json
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\bin\Debug\netcoreapp3.1\Try Catch and Finally.runtimeconfig.json
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\bin\Debug\netcoreapp3.1\Try Catch and Finally.runtimeconfig.dev.json
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\bin\Debug\netcoreapp3.1\Try Catch and Finally.dll
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\bin\Debug\netcoreapp3.1\Try Catch and Finally.pdb
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\obj\Debug\netcoreapp3.1\Try Catch and Finally.csprojAssemblyReference.cache
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\obj\Debug\netcoreapp3.1\Try Catch and Finally.AssemblyInfoInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\obj\Debug\netcoreapp3.1\Try Catch and Finally.AssemblyInfo.cs
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\obj\Debug\netcoreapp3.1\Try Catch and Finally.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\obj\Debug\netcoreapp3.1\Try Catch and Finally.dll
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\obj\Debug\netcoreapp3.1\Try Catch and Finally.pdb
+C:\Users\Harsh Verma\Desktop\C#\Try Catch and Finally\Try Catch and Finally\obj\Debug\netcoreapp3.1\Try Catch and Finally.genruntimeconfig.cache
